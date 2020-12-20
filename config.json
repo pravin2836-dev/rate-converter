@@ -1,0 +1,10 @@
+{
+  "local": {
+    "stage": "local",
+    "EXTERNAL_INTERACTION_BASE_URL": "http://api.currencylayer.com/"
+  },
+  "dev": {
+    "stage": "dev",
+    "EXTERNAL_INTERACTION_BASE_URL": "http://api.currencylayer.com/"
+  }
+}

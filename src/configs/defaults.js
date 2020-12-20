@@ -1,0 +1,33 @@
+module.exports.API_ACCESS_KEY = "2affc93cb35d0e87a6289a75acd96727";
+
+module.exports.RETURN_STRINGS = {
+  GENERIC_MISSING_FIELD_MSG: 'One or more mandatory body fields are missing/invalid',
+  MISSING_BODY: 'Body is missing',
+  NOT_ENCRYPTED_PASSWORD: 'Please send the encrypted password',
+  UNAUTHORISED_FOR_MISSING_HEADER: 'You are Unauthorised! Mandatory headers are missing',
+  INTERNAL_SERVER_ERROR: 'Internal Server error',
+  USER_NOT_FOUND: 'User not found',
+  LEAD_NOT_FOUND: 'Lead not found',
+  INVALID_CREDENTIALS: 'UserId or Password is not valid. Please try with valid credentials',
+  PASSWORD_ATUO_EXPIRED: 'Your password has auto expired. Please reset your password and login again',
+  INVALID_USERID_PAN: 'UserId or Pan is not valid. Please try with valid User Id and Pan',
+  CANNOT_RESET_AD_PASSWORD: 'AD user password cannot be reset. Pease contact your administrator!',
+  INVALID_PAN: 'Please enter valid PAN',
+  UNUSED_LAST_6_PASSWORD: 'Please use password not used for previous 6 times',
+  PERMISSIONS_NOT_FOUND: 'Permissions not found.',
+  MISSING_USERID: 'User Id is Missing / invalid',
+  MINIMUM_1_LEAD_REQUIRED: 'Atleast one lead data is required to create a lead.',
+  ONLY_SPECIFIC_PROSPECT_TYPES: 'Prospect Type can only have customer/agent/nominator',
+  ONLY_SPECIFIC_AGE_BANDS: 'Age band can only have 24-30/31-35/36-40/41-45/46-50/51-55/56-65/66-75/76-85/86-90',
+  ONLY_SPECIFIC_INCOME_BANDS: 'Income Band can only have _up_to_3_lacs/_3_lacs_to_6_lacs/_6_lacs_to_10_lacs/_10_lacs_to_20_lacs/_20_lacs_to_50_lacs/_above_50_lacs',
+  ONLY_SPECIFIC_LIFE_STAGES: 'Life Stage can only have Early Career/Married with young kids/Married with older kids/Pre-retirement',
+  ONLY_SPECIFIC_LOGIN_TYPES: 'login Type can only have Business/Individual',
+  NOT_APPLICABLE: 'N/A',
+  NO_INACTIVE_LEADS: 'No leads found for archival',
+  LEADS_ARCHIVED: 'Leads archived successfully',
+  NO_LEADS: 'No leads found for the provided user',
+  MISSING_QUERY_PARAM: 'One or more mandatory query fields are missing or invalid',
+  MISSING_DATE_PARAMS: 'FromDate or toDate missing in query params',
+  MISSING_PAGINATION_PARAMS: 'Page for archived / unarchived is missing or invalid',
+  CONFLICT: 'leadDisposition and objectionRaised is same as previous one'
+};

@@ -1,0 +1,110 @@
+2020-12-20 19:12:14 error uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (E:\sample\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\sample\app.js:55:5)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47
+2020-12-20 19:12:27 error uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at Server.listen (net.js:1447:7)
+    at Function.listen (E:\sample\node_modules\express\lib\application.js:618:24)
+    at Object.<anonymous> (E:\sample\app.js:55:5)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47
+2020-12-20 19:20:18 error POST //v1.0/ncms/hlv 404 2.886 ms
+
+2020-12-20 19:20:27 error POST /v1.0/ncms/hlv 500 10.830 ms
+
+2020-12-20 19:42:54 error POST /v1.0/rate-converter 404 0.800 ms
+
+2020-12-20 19:50:59 error GET /v1.0/rate-converter?age=%2025, 404 1.292 ms
+
+2020-12-20 19:59:31 error GET /v1.0/inr-usd?age=%2025, 404 1.932 ms
+
+2020-12-20 21:17:41 error GET /v1.0/inr-usd?amount=2 500 4.773 ms
+
+2020-12-20 21:20:08 error GET /v1.0/inr-usd 500 1.967 ms
+
+2020-12-20 21:20:11 error GET /v1.0/inr-usd 500 0.984 ms
+
+2020-12-20 21:20:17 error GET /v1.0/inr-usd 500 1.050 ms
+
+2020-12-20 21:23:33 error GET /v1.0/inr-usd?amount=%22%22 500 4.012 ms
+
+2020-12-20 21:28:39 error GET /v1.0/inr-usd 500 8.370 ms
+
+2020-12-20 21:29:14 error GET /v1.0/inr-usd 500 26.647 ms
+
+2020-12-20 21:31:47 error GET /v1.0/inr-usd 500 4.556 ms
+
+2020-12-20 21:31:55 error GET /v1.0/inr-usd?amount=%22%22 500 0.688 ms
+
+2020-12-20 21:31:57 error GET /v1.0/inr-usd?amount=%22%22 500 0.434 ms
+
+2020-12-20 21:32:22 error GET /v1.0/inr-usd?amount=%22%22 500 7.316 ms
+
+2020-12-20 21:36:37 error GET /v1.0/inr-usd?amount= 500 3.079 ms
+
+2020-12-20 21:37:06 error GET /v1.0/inr-usd?amount= 500 38.083 ms
+
+2020-12-20 21:38:20 error GET /v1.0/inr-usd?amount= 500 6.281 ms
+
+2020-12-20 21:39:27 error GET /v1.0/inr-usd?amount= 400 7.670 ms
+
+2020-12-20 21:40:13 error GET /v1.0/inr-usd?amount= 400 6.430 ms
+
+2020-12-20 21:40:52 error GET /v1.0/inr-usd 400 0.721 ms
+
+2020-12-20 21:57:03 error GET /v1.0/historical-data?currencies=INR,USD&frequency=7 404 3.313 ms
+
+2020-12-20 22:15:13 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 10.202 ms
+
+2020-12-20 22:16:07 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 7.776 ms
+
+2020-12-20 22:16:48 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 15.596 ms
+
+2020-12-20 22:17:34 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 28.779 ms
+
+2020-12-20 22:18:58 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 12.618 ms
+
+2020-12-20 22:19:58 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 6.961 ms
+
+2020-12-20 22:20:43 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 12.934 ms
+
+2020-12-20 22:21:24 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 32.923 ms
+
+2020-12-20 22:22:35 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 25.651 ms
+
+2020-12-20 22:23:41 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 7.927 ms
+
+2020-12-20 22:24:33 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 7.481 ms
+
+2020-12-20 22:25:19 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 12.039 ms
+
+2020-12-20 22:36:20 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1 500 7.176 ms
+
+2020-12-20 22:37:15 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1 500 14.565 ms
+
+2020-12-20 22:38:26 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1 500 8.801 ms
+
+2020-12-20 22:38:55 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1 500 42.815 ms
+
+2020-12-20 22:46:09 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1   ms
+
+2020-12-20 22:46:20 error GET /v1.0/historical-data?currencies=INR,USD&frequency=2   ms
+
+2020-12-20 22:46:33 error GET /v1.0/historical-data?currencies=INR,USD&frequency=4   ms
+

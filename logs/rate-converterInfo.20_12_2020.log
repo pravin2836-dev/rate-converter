@@ -1,0 +1,288 @@
+2020-12-20 19:14:14 info Express server for rate-converter : started on port 3000
+2020-12-20 19:14:14 info Successfully connected to the database
+2020-12-20 19:20:18 error POST //v1.0/ncms/hlv 404 2.886 ms
+
+2020-12-20 19:20:27 error POST /v1.0/ncms/hlv 500 10.830 ms
+
+2020-12-20 19:22:01 info Express server for rate-converter : started on port 3000
+2020-12-20 19:22:01 info Successfully connected to the database
+2020-12-20 19:22:03 info POST /v1.0/ncms/hlv 200 3.998 ms
+
+2020-12-20 19:42:54 error POST /v1.0/rate-converter 404 0.800 ms
+
+2020-12-20 19:43:08 info Express server for rate-converter : started on port 3000
+2020-12-20 19:43:08 info Successfully connected to the database
+2020-12-20 19:43:10 info POST /v1.0/rate-converter 200 3.272 ms
+
+2020-12-20 19:50:59 error GET /v1.0/rate-converter?age=%2025, 404 1.292 ms
+
+2020-12-20 19:51:15 info Express server for rate-converter : started on port 3000
+2020-12-20 19:51:15 info Successfully connected to the database
+2020-12-20 19:51:17 info GET /v1.0/rate-converter?age=%2025, 200 3.809 ms
+
+2020-12-20 19:59:31 error GET /v1.0/inr-usd?age=%2025, 404 1.932 ms
+
+2020-12-20 19:59:41 info Express server for rate-converter : started on port 3000
+2020-12-20 19:59:41 info Successfully connected to the database
+2020-12-20 19:59:43 info GET /v1.0/inr-usd?age=%2025, 200 3.485 ms
+
+2020-12-20 20:06:45 info Express server for rate-converter : started on port 3000
+2020-12-20 20:06:51 info GET /v1.0/inr-usd?age=%2025, 200 3.196 ms
+
+2020-12-20 20:11:41 info Express server for rate-converter : started on port 3000
+2020-12-20 20:11:44 info GET /v1.0/inr-usd?age=%2025, 200 3.909 ms
+
+2020-12-20 20:26:17 info Express server for rate-converter : started on port 3000
+2020-12-20 20:26:22 info GET /v1.0/inr-usd?amount=500 200 2034.887 ms
+
+2020-12-20 20:28:07 info Express server for rate-converter : started on port 3000
+2020-12-20 20:28:11 info GET /v1.0/inr-usd?amount=500 200 2030.420 ms
+
+2020-12-20 20:28:43 info Express server for rate-converter : started on port 3000
+2020-12-20 20:28:48 info GET /v1.0/inr-usd?amount=500 200 2023.871 ms
+
+2020-12-20 20:29:26 info Express server for rate-converter : started on port 3000
+2020-12-20 20:29:31 info GET /v1.0/inr-usd?amount=500 200 2026.704 ms
+
+2020-12-20 20:30:00 info Express server for rate-converter : started on port 3000
+2020-12-20 20:30:05 info GET /v1.0/inr-usd?amount=500 200 2028.840 ms
+
+2020-12-20 20:30:46 info Express server for rate-converter : started on port 3000
+2020-12-20 20:30:51 info GET /v1.0/inr-usd?amount=500 200 2035.215 ms
+
+2020-12-20 20:32:09 info Express server for rate-converter : started on port 3000
+2020-12-20 20:32:12 info GET /v1.0/inr-usd?amount=500 200 491.822 ms
+
+2020-12-20 20:37:54 info Express server for rate-converter : started on port 3000
+2020-12-20 20:37:57 info GET /v1.0/inr-usd?amount=500 200 615.069 ms
+
+2020-12-20 20:38:21 info Express server for rate-converter : started on port 3000
+2020-12-20 20:38:23 info GET /v1.0/inr-usd?amount=500 200 538.179 ms
+
+2020-12-20 21:00:11 info Express server for rate-converter : started on port 3000
+2020-12-20 21:00:16 info GET /v1.0/inr-usd?amount=500 200 887.260 ms
+
+2020-12-20 21:02:26 info Express server for rate-converter : started on port 3000
+2020-12-20 21:02:28 info GET /v1.0/inr-usd?amount=500 200 520.388 ms
+
+2020-12-20 21:10:17 info Express server for rate-converter : started on port 3000
+2020-12-20 21:10:20 info GET /v1.0/inr-usd?amount=500 200 537.256 ms
+
+2020-12-20 21:10:33 info GET /v1.0/inr-usd?amount=1 200 500.119 ms
+
+2020-12-20 21:11:01 info Express server for rate-converter : started on port 3000
+2020-12-20 21:11:04 info GET /v1.0/inr-usd?amount=1 200 513.787 ms
+
+2020-12-20 21:13:54 info Express server for rate-converter : started on port 3000
+2020-12-20 21:13:57 info GET /v1.0/inr-usd?amount=1 200 515.518 ms
+
+2020-12-20 21:14:06 info GET /v1.0/inr-usd?amount=2 200 480.709 ms
+
+2020-12-20 21:17:38 info Express server for rate-converter : started on port 3000
+2020-12-20 21:17:41 error GET /v1.0/inr-usd?amount=2 500 4.773 ms
+
+2020-12-20 21:18:27 info Express server for rate-converter : started on port 3000
+2020-12-20 21:18:41 info GET /v1.0/inr-usd?amount=2 200 11073.473 ms
+
+2020-12-20 21:20:00 info GET /v1.0/inr-usd?amount=2 200 580.473 ms
+
+2020-12-20 21:20:08 error GET /v1.0/inr-usd 500 1.967 ms
+
+2020-12-20 21:20:11 error GET /v1.0/inr-usd 500 0.984 ms
+
+2020-12-20 21:20:17 error GET /v1.0/inr-usd 500 1.050 ms
+
+2020-12-20 21:21:18 info Express server for rate-converter : started on port 3000
+2020-12-20 21:21:21 info GET /v1.0/inr-usd?amount=%22%22 200 1643.024 ms
+
+2020-12-20 21:22:59 info Express server for rate-converter : started on port 3000
+2020-12-20 21:23:01 info GET /v1.0/inr-usd?amount=%22%22 200 860.025 ms
+
+2020-12-20 21:23:31 info Express server for rate-converter : started on port 3000
+2020-12-20 21:23:33 error GET /v1.0/inr-usd?amount=%22%22 500 4.012 ms
+
+2020-12-20 21:26:52 info Express server for rate-converter : started on port 3000
+2020-12-20 21:26:55 info GET /v1.0/inr-usd?amount=%22%22 200 960.946 ms
+
+2020-12-20 21:27:42 info Express server for rate-converter : started on port 3000
+2020-12-20 21:27:45 info GET /v1.0/inr-usd?amount=%22%22 200 919.951 ms
+
+2020-12-20 21:28:35 info Express server for rate-converter : started on port 3000
+2020-12-20 21:28:39 error GET /v1.0/inr-usd 500 8.370 ms
+
+2020-12-20 21:29:09 info Express server for rate-converter : started on port 3000
+2020-12-20 21:29:14 error GET /v1.0/inr-usd 500 26.647 ms
+
+2020-12-20 21:31:44 info Express server for rate-converter : started on port 3000
+2020-12-20 21:31:47 error GET /v1.0/inr-usd 500 4.556 ms
+
+2020-12-20 21:31:55 error GET /v1.0/inr-usd?amount=%22%22 500 0.688 ms
+
+2020-12-20 21:31:57 error GET /v1.0/inr-usd?amount=%22%22 500 0.434 ms
+
+2020-12-20 21:32:13 info Express server for rate-converter : started on port 3000
+2020-12-20 21:32:22 error GET /v1.0/inr-usd?amount=%22%22 500 7.316 ms
+
+2020-12-20 21:33:46 info Express server for rate-converter : started on port 3000
+2020-12-20 21:33:49 info GET /v1.0/inr-usd?amount=%22%22 200 592.937 ms
+
+2020-12-20 21:34:39 info Express server for rate-converter : started on port 3000
+2020-12-20 21:34:42 info GET /v1.0/inr-usd?amount=%22%22 200 854.208 ms
+
+2020-12-20 21:35:15 info Express server for rate-converter : started on port 3000
+2020-12-20 21:35:18 info GET /v1.0/inr-usd?amount=%22%22 200 857.395 ms
+
+2020-12-20 21:35:42 info Express server for rate-converter : started on port 3000
+2020-12-20 21:35:45 info GET /v1.0/inr-usd?amount=%22%22 200 873.806 ms
+
+2020-12-20 21:36:09 info Express server for rate-converter : started on port 3000
+2020-12-20 21:36:12 info GET /v1.0/inr-usd?amount=%22%22 200 550.026 ms
+
+2020-12-20 21:36:37 error GET /v1.0/inr-usd?amount= 500 3.079 ms
+
+2020-12-20 21:37:04 info Express server for rate-converter : started on port 3000
+2020-12-20 21:37:06 error GET /v1.0/inr-usd?amount= 500 38.083 ms
+
+2020-12-20 21:38:19 info Express server for rate-converter : started on port 3000
+2020-12-20 21:38:20 error GET /v1.0/inr-usd?amount= 500 6.281 ms
+
+2020-12-20 21:39:24 info Express server for rate-converter : started on port 3000
+2020-12-20 21:39:27 error GET /v1.0/inr-usd?amount= 400 7.670 ms
+
+2020-12-20 21:40:11 info Express server for rate-converter : started on port 3000
+2020-12-20 21:40:13 error GET /v1.0/inr-usd?amount= 400 6.430 ms
+
+2020-12-20 21:40:39 info GET /v1.0/inr-usd?amount=2 200 3820.892 ms
+
+2020-12-20 21:40:44 info GET /v1.0/inr-usd?amount=2 200 1745.791 ms
+
+2020-12-20 21:40:52 error GET /v1.0/inr-usd 400 0.721 ms
+
+2020-12-20 21:40:57 info GET /v1.0/inr-usd?amount=2 200 968.528 ms
+
+2020-12-20 21:44:42 info Express server for rate-converter : started on port 3000
+2020-12-20 21:44:44 info GET /v1.0/inr-usd?amount=2 200 704.531 ms
+
+2020-12-20 21:45:10 info Express server for rate-converter : started on port 3000
+2020-12-20 21:45:13 info GET /v1.0/inr-usd?amount=2 200 1616.484 ms
+
+2020-12-20 21:46:02 info Express server for rate-converter : started on port 3000
+2020-12-20 21:46:06 info GET /v1.0/inr-usd?amount=2 200 863.936 ms
+
+2020-12-20 21:57:03 error GET /v1.0/historical-data?currencies=INR,USD&frequency=7 404 3.313 ms
+
+2020-12-20 22:04:04 info Express server for rate-converter : started on port 3000
+2020-12-20 22:04:06 info GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 200 38.772 ms
+
+2020-12-20 22:15:03 info Express server for rate-converter : started on port 3000
+2020-12-20 22:15:13 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 10.202 ms
+
+2020-12-20 22:15:56 info Express server for rate-converter : started on port 3000
+2020-12-20 22:16:07 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 7.776 ms
+
+2020-12-20 22:16:41 info Express server for rate-converter : started on port 3000
+2020-12-20 22:16:48 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 15.596 ms
+
+2020-12-20 22:17:30 info Express server for rate-converter : started on port 3000
+2020-12-20 22:17:34 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 28.779 ms
+
+2020-12-20 22:18:25 info Express server for rate-converter : started on port 3000
+2020-12-20 22:18:27 info GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 200 19.788 ms
+
+2020-12-20 22:18:55 info Express server for rate-converter : started on port 3000
+2020-12-20 22:18:58 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 12.618 ms
+
+2020-12-20 22:19:55 info Express server for rate-converter : started on port 3000
+2020-12-20 22:19:58 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 6.961 ms
+
+2020-12-20 22:20:41 info Express server for rate-converter : started on port 3000
+2020-12-20 22:20:43 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 12.934 ms
+
+2020-12-20 22:21:21 info Express server for rate-converter : started on port 3000
+2020-12-20 22:21:24 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 32.923 ms
+
+2020-12-20 22:22:33 info Express server for rate-converter : started on port 3000
+2020-12-20 22:22:35 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 25.651 ms
+
+2020-12-20 22:23:39 info Express server for rate-converter : started on port 3000
+2020-12-20 22:23:41 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 7.927 ms
+
+2020-12-20 22:24:28 info Express server for rate-converter : started on port 3000
+2020-12-20 22:24:33 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 7.481 ms
+
+2020-12-20 22:25:17 info Express server for rate-converter : started on port 3000
+2020-12-20 22:25:19 error GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 500 12.039 ms
+
+2020-12-20 22:26:16 info Express server for rate-converter : started on port 3000
+2020-12-20 22:26:20 info GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 200 19.629 ms
+
+2020-12-20 22:26:54 info Express server for rate-converter : started on port 3000
+2020-12-20 22:26:57 info GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 200 10.111 ms
+
+2020-12-20 22:27:36 info Express server for rate-converter : started on port 3000
+2020-12-20 22:27:40 info GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 200 17.265 ms
+
+2020-12-20 22:28:37 info Express server for rate-converter : started on port 3000
+2020-12-20 22:28:39 info GET /v1.0/historical-data?currencies=%22INR,USD%22&frequency=7 200 27.935 ms
+
+2020-12-20 22:29:06 info GET /v1.0/historical-data?currencies=INR,USD&frequency=7 200 17.341 ms
+
+2020-12-20 22:29:23 info Express server for rate-converter : started on port 3000
+2020-12-20 22:29:25 info GET /v1.0/historical-data?currencies=INR,USD&frequency=7 200 23.206 ms
+
+2020-12-20 22:29:50 info Express server for rate-converter : started on port 3000
+2020-12-20 22:29:53 info GET /v1.0/historical-data?currencies=INR,USD&frequency=7 200 11.582 ms
+
+2020-12-20 22:30:08 info GET /v1.0/historical-data?currencies=INR,USD&frequency=1 200 2.250 ms
+
+2020-12-20 22:30:29 info Express server for rate-converter : started on port 3000
+2020-12-20 22:30:31 info GET /v1.0/historical-data?currencies=INR,USD&frequency=1 200 10.716 ms
+
+2020-12-20 22:31:18 info Express server for rate-converter : started on port 3000
+2020-12-20 22:31:20 info GET /v1.0/historical-data?currencies=INR,USD&frequency=1 200 12.844 ms
+
+2020-12-20 22:32:15 info Express server for rate-converter : started on port 3000
+2020-12-20 22:32:18 info GET /v1.0/historical-data?currencies=INR,USD&frequency=1 200 26.476 ms
+
+2020-12-20 22:32:46 info Express server for rate-converter : started on port 3000
+2020-12-20 22:32:48 info GET /v1.0/historical-data?currencies=INR,USD&frequency=1 200 8.814 ms
+
+2020-12-20 22:36:18 info Express server for rate-converter : started on port 3000
+2020-12-20 22:36:20 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1 500 7.176 ms
+
+2020-12-20 22:37:13 info Express server for rate-converter : started on port 3000
+2020-12-20 22:37:15 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1 500 14.565 ms
+
+2020-12-20 22:38:23 info Express server for rate-converter : started on port 3000
+2020-12-20 22:38:26 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1 500 8.801 ms
+
+2020-12-20 22:38:53 info Express server for rate-converter : started on port 3000
+2020-12-20 22:38:55 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1 500 42.815 ms
+
+2020-12-20 22:39:19 info Express server for rate-converter : started on port 3000
+2020-12-20 22:39:22 info GET /v1.0/historical-data?currencies=INR,USD&frequency=1 200 612.599 ms
+
+2020-12-20 22:39:32 info GET /v1.0/historical-data?currencies=INR,USD&frequency=7 200 533.432 ms
+
+2020-12-20 22:39:55 info Express server for rate-converter : started on port 3000
+2020-12-20 22:39:59 info GET /v1.0/historical-data?currencies=INR,USD&frequency=7 200 323.502 ms
+
+2020-12-20 22:45:16 info Express server for rate-converter : started on port 3000
+2020-12-20 22:45:21 info GET /v1.0/historical-data?currencies=INR,USD&frequency=7 200 532.575 ms
+
+2020-12-20 22:45:42 info GET /v1.0/historical-data?currencies=INR,USD&frequency=1 200 1651.209 ms
+
+2020-12-20 22:45:59 info Express server for rate-converter : started on port 3000
+2020-12-20 22:46:09 error GET /v1.0/historical-data?currencies=INR,USD&frequency=1   ms
+
+2020-12-20 22:46:20 error GET /v1.0/historical-data?currencies=INR,USD&frequency=2   ms
+
+2020-12-20 22:46:33 error GET /v1.0/historical-data?currencies=INR,USD&frequency=4   ms
+
+2020-12-20 22:47:11 info Express server for rate-converter : started on port 3000
+2020-12-20 22:47:15 info GET /v1.0/historical-data?currencies=INR,USD&frequency=7 200 706.727 ms
+
+2020-12-20 22:47:34 info GET /v1.0/historical-data?currencies=INR,USD&frequency=10 200 745.189 ms
+
+2020-12-20 22:48:13 info GET /v1.0/historical-data?currencies=INR,USD&frequency=50 200 1786.333 ms
+
